@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Full Name - Personal Portfolio</title>
+</head>
+<body>
+    <!-- Header with Name and Tagline -->
+    <header>
+        <h1>Your Full Name</h1>
+        <p>A brief professional tagline or statement about you.</p>
+    </header>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Introduction Section -->
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Write a brief paragraph about yourself. This is where you introduce yourself to the visitor.</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <!-- Project 1 -->
+        <article class="project">
+            <h3>Project 1 Title</h3>
+            <p>Description of Project 1. This could include the technology used, purpose, and outcome.</p>
+            <a href="https://link-to-project.com" target="_blank">View Project</a>
+        </article>
+
+        <!-- Project 2 -->
+        <article class="project">
+            <h3>Project 2 Title</h3>
+            <p>Description of Project 2. This could include the technology used, purpose, and outcome.</p>
+            <a href="https://link-to-project.com" target="_blank">View Project</a>
+        </article>
+
+        <!-- Project 3 -->
+        <article class="project">
+            <h3>Project 3 Title</h3>
+            <p>Description of Project 3. This could include the technology used, purpose, and outcome.</p>
+            <a href="https://link-to-project.com" target="_blank">View Project</a>
+        </article>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a passionate web developer with experience in HTML, CSS, JavaScript, and more. I enjoy building responsive websites and solving problems with technology.</p>
+
+        <h3>Skills</h3>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>Node.js</li>
+        </ul>
+
+        <h3>Hobbies</h3>
+        <ul>
+            <li>Traveling</li>
+            <li>Coding</li>
+            <li>Reading Books</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>If you would like to get in touch with me, feel free to send an email:</p>
+        <a href="mailto:your.email@example.com">mohamedhesham7595@gmail.com</a>
+        <br><br>
+        <p>You can also find me on:</p>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/mohamed-zakzouk-2446221b6" target="_blank">LinkedIn</a></li>
+            <li><a href="https://github.com/MohamedZakzok1" target="_blank">GitHub</a></li>
+        </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Mohamed Hesham Elsayed Zakzouk</p>
+    </footer>
+</body>
+</html>
